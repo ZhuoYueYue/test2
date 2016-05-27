@@ -12,8 +12,6 @@ function thousands_separators(num) {
             str_point_after=str_num.substring(i);
             str_point_before=str_num.substring(0,i);
             has_point=true;
-            git
-
         }
     }
     // 如果不是小数
